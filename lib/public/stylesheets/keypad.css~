@@ -1,0 +1,30 @@
+
+Div.base-layer {
+border:1px solid #333333;
+color:#000000;
+margin:0.5em 12px;
+padding:0;
+text-align:center;
+width:500px;
+}
+
+DIV.table-row {
+  background: none #ffffcc; color: #000000;
+  margin-top: 0; margin-right: auto; margin-bottom: 0; margin-left: auto;
+  padding: 0; text-align: center; width: 96%;
+}
+
+DIV.left-layer11 {
+  border: none; float: left; margin: 0; padding: 0; width: 35px;
+}
+
+DIV.space-line {
+  clear: both; margin: 0; padding: 0; width: auto;
+}
+
+P.text {
+  background-image:url(/images/blue/key02.png);
+  margin: 0; padding: 0.3em 0.3em 0 0.3em;
+  font-style: normal; font-size: 1em; text-align: center; text-indent: 0;
+  width: auto;
+}
